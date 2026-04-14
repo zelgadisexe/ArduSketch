@@ -22,7 +22,7 @@
 
 Скачайте последнюю версию APK-файла из раздела [Releases](https://github.com/zelgadisexe/ArduSketch/releases) или соберите проект самостоятельно.
 
-## Сборка проекта
+## Сборка проекта -> Arduino Studio panda 3.
 
 1. Клонируйте репозиторий:
    ```bash
