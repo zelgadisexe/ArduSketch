@@ -10,11 +10,9 @@
 * Сохранение проектов для дальнейшего редактирования
 * Интуитивный интерфейс для быстрого прототипирования
 
-!001.png
-
-!002.png
-
-!003.png
+![Главный экран](https://raw.githubusercontent.com/zelgadisexe/ArduSketch/main/001.png)
+![Выбор компонентов](https://raw.githubusercontent.com/zelgadisexe/ArduSketch/main/002.png)
+![Готовая схема](https://raw.githubusercontent.com/zelgadisexe/ArduSketch/main/003.png)
 
 * Android 6.0 (Marshmallow) или выше
 * 1 GB оперативной памяти
