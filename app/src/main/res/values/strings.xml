@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IoT Architect</string>
+    <string name="app_name">ArduSketch</string>
     <string name="add_module">Добавить модуль</string>
     <string name="create_custom">Свой модуль</string>
     <string name="connections">Связи</string>
